@@ -1,7 +1,7 @@
 import json
 from cryptocmd import CmcScraper
 
-currencies = ["BTC", "ETH", "BNB", "XRP", "LTC", "DOGE", "USDT", "USDC"]  # Example list of currencies
+currencies = ["BTC", "ETH", "BNB", "XRP", "LTC", "DOGE", "USDT", "USDC", 'ADA']  # Example list of currencies
 
 data_collection = {}  # Dictionary to store the collected data
 
