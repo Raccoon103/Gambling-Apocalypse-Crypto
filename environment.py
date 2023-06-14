@@ -17,6 +17,14 @@ def play_baccarat(t, amount):
     return 0
 
 
+def daily_process():
+    a = 1
+#    feedback_current_data
+#    investment_data_update
+#    decision_making
+#    gambling_result
+
+
 if __name__ == '__main__':
     for _ in range(100):
         print(play_baccarat('banker', 10000))
